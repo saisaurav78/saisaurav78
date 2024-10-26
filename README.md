@@ -1,5 +1,23 @@
 # 💫 About Me:
-**Hi there! 👋**<br><br>I'm Sai Sowrav, a recent Chemical Engineering graduate with a passion for development and technology. I enjoy working on diverse projects and exploring new technologies to build innovative solutions.<br><br>- 💼 **Currently working on:** Developing the A2ZKart ecommerce site to enhance user experience, exploring advanced features, and working on a Python game project.<br>- 🔭 **I’m currently learning:** Full-stack development, modern technologies, and game development techniques.<br>- 🌱 **Looking to collaborate on:** Exciting development projects where I can contribute my skills and continue to learn.<br>- 📫 **How to reach me:** [Email Me](mailto:andukurisaisowrav7@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sai-sowrav-andukuri/).<br><br>Feel free to check out my repositories, and let's connect if you’re interested in collaborating on innovative projects!<br>
+## Hi there 👋  
+### I'm **Sai Sowrav**  
+#### A recent Chemical Engineering graduate with a strong passion for development and technology.
+
+I enjoy working on diverse projects and exploring new technologies to build innovative solutions.
+
+- 💼 **Currently working on:**  
+  Developing the **A2ZKart** ecommerce site to enhance user experience, exploring advanced features, and working on a Python game project.
+
+- 🔭 **I’m currently learning:**  
+  Data Structures & Algorithms, modern web technologies, and game development techniques.
+
+- 🌱 **Looking to collaborate on:**  
+  Exciting development projects where I can contribute my skills and continue to learn.
+
+- 📫 **How to reach me:**  
+  [**Email Me**](mailto:andukurisaisowrav7@gmail.com) or connect with me on [**LinkedIn**](https://www.linkedin.com/in/sai-sowrav-andukuri/).
+
+Feel free to explore my repositories, and let’s connect if you’re interested in collaborating! ✌️
 
 
 ## 🌐 Socials:
